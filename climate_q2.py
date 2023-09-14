@@ -5,7 +5,6 @@ years = []
 co2 = []
 temp = []
 
-
 df = pd.read_csv(r"climate.csv")
 pandaYear = df["Year"]
 pandaCo2 = df["CO2"]
@@ -17,20 +16,6 @@ for i in range(len(pandaCo2)):
     co2.append(pandaCo2[i])
 for i in range(len(pandaTemp)):
     temp.append(pandaTemp[i])
-
-print(years)
-
-# print(pandaYear)
-
-# for r in pandaYear:
-#     years.append(r)
-#     print(years)
-
-# pd.DataFrame(data1)
-# # years.append(test2)
-# print(test2)
-
-
 
 plt.subplot(2, 1, 1)
 plt.plot(years, co2, 'b--') 
