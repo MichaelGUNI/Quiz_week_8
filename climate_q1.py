@@ -1,5 +1,8 @@
 import matplotlib.pyplot as plt
-        
+import sqlite3
+connection = sqlite3.connect(r"climate.db")
+cursor = connection.cursor()
+
 years = []
 co2 = []
 temp = []
