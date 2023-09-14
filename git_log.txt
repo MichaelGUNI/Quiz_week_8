@@ -1,0 +1,23 @@
+commit c82c4806de4a032e41c74691a8adb24a8a8e25df
+Author: MichaelGUNI <114717913+MichaelGUNI@users.noreply.github.com>
+Date:   Thu Sep 14 19:43:23 2023 +1000
+
+    Cleaned up code, working
+
+commit ecc173fc3c705bfc2c8714aa8470b1cb18d5bf1f
+Author: MichaelGUNI <114717913+MichaelGUNI@users.noreply.github.com>
+Date:   Thu Sep 14 19:42:57 2023 +1000
+
+    tested different ideas
+
+commit a564b00175a797911bcfd4647e2e0fbcf919ef3c
+Author: MichaelGUNI <114717913+MichaelGUNI@users.noreply.github.com>
+Date:   Thu Sep 14 19:11:20 2023 +1000
+
+    Working Q1
+
+commit 7333e14a7f787e86b2c8b1908e666d8c2a5da058
+Author: MichaelGUNI <114717913+MichaelGUNI@users.noreply.github.com>
+Date:   Thu Sep 14 18:47:02 2023 +1000
+
+    Setup SQL & Installed Matplotlib
